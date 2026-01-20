@@ -1,0 +1,36 @@
+# Rust / Cargo
+
+target/
+**/target/
+
+# Cargo.lock
+
+# Para estudos e aplicações, normalmente você versiona o Cargo.lock
+
+# Se for biblioteca, pode descomentar a linha abaixo
+
+# Cargo.lock
+
+# Rustfmt
+
+.rustfmt.toml
+
+# Clippy
+
+.clippy.toml
+
+# Editor / IDE
+
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Logs e temporários
+
+*.log
+*.tmp
